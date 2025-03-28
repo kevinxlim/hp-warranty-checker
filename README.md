@@ -20,18 +20,18 @@ A Python-based **HP warranty checker** that automatically retrieves warranty inf
 git clone https://github.com/kevinxlim/hp-warranty-checker.git
 cd hp-warranty-checker
 ```
+<br>
 2️⃣ Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-
+<br>
 3️⃣ Download WebDriver (e.g., ChromeDriver)
-
-Download ChromeDriver
 
 Place it in the project folder or set it in the system PATH
 
+<br>
 4️⃣ Run the script
 
 ```bash
@@ -39,12 +39,12 @@ python warranty_checker.py
 ```
 <br>
 🎯 Usage
-<br>
+<br><br>
 Populate the serial numbers in the serial_numbers.csv file
 
 The script will fetch the warranty details automatically
 
-<br><br>
+<br>
 🔒 License
 This project is licensed under the MIT License.
 
